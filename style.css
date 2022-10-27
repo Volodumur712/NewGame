@@ -152,7 +152,7 @@
 /* Враги */
 .enemy {
   position: absolute;
-  top: calc(70% - 85px);
+  top: calc(50% - 5px);
   right: 20px;
   z-index: 999999;
 }
